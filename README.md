@@ -72,6 +72,8 @@ The project leverages the following technologies:
    ```bash
    git clone https://github.com/JayJoshi4520/DATA-228-Project.git
    cd DATA-228-Project
+   pip install -r requirements.txt
+   jupyter notebook
 2. Download Dataset from Kaggle : (Kaggle Dataset)[https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset]
 
 #### Upload the data set to HDFS:
