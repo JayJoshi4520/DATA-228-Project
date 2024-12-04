@@ -113,6 +113,3 @@ Linear Regression Model:
 R² Value: 0.999 (indicating high predictive accuracy).
 Root Mean Square Error (RMSE): Very low, indicating precise predictions.
 
-Contributors
-Avirit Singh (avirit.singh@sjsu.edu)
-Jay Joshi (jaynarendrabhai.joshi@sjsu.edu)
