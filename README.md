@@ -72,6 +72,18 @@ The project leverages the following technologies:
    ```bash
    git clone https://github.com/JayJoshi4520/DATA-228-Project.git
    cd DATA-228-Project
+2. Download Dataset from Kaggle : (Kaggle Dataset)[https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset]
+
+#### Upload the data set to HDFS:
+1. Start the HDFS Service
+2. Create the input directory using : ```hdfs dfs -mkdir /input```
+3. Upload the Downloaded dataset to HDFS using : ```hdfs dfs -put /path-to-dataset /input```
+
+
+#### Start environment to run Jupyte Notebook in cloned Git Repo Folder.
+
+
+   
 
 Usage:
 
